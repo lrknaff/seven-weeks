@@ -1,0 +1,98 @@
+/* header */
+header {
+  background-color: #FFF;
+  height: 45px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  z-index: 1;
+}
+
+h1 {
+  color: #4b4b4b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  letter-spacing: 0.25em;
+  padding-top: 15px;
+  text-transform: uppercase;
+}
+
+h6 {
+  color: #212121;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  bottom: 22px;
+}
+
+p.fonts-in-use {
+  font-family: 'Montserrat', sans-serif;
+  font-size: .75em;
+  letter-spacing: 3px;
+  line-height: 2.5em;
+  margin: 4rem 0 0 0;
+  text-transform: uppercase;
+}
+
+.week-number {
+  width: 25px;
+  height: 25px;
+  border: 2px solid #212121;
+  position: relative;
+  margin: 0 auto;
+  transform: rotate(45deg);
+}
+
+/* week 1 */
+#week-one {
+  background-color: #F4F2F3;
+  width: 100vw;
+  padding: 13rem 0 10rem 0;
+  position: relative;
+  text-align: center;
+}
+
+#week-one h2 {
+  font-family: 'Lato', sans-serif;
+  color: #FF491A;
+  font-size: 10em;
+  line-height: 160px;
+  text-transform: uppercase;
+}
+
+#week-one h3 {
+  color: #212121;
+  font-family: 'Unna', serif;
+  font-size: 1.75em;
+  letter-spacing: 0.75px;
+  line-height: 1.3em;
+}
+
+#week-one h3 span {
+  color: #599EBB;
+}
+
+.fight, .with, .water {
+  position: relative;
+}
+
+.fight {
+  top: 18px;
+  margin-top: 50px;
+}
+
+.with {
+  bottom: 175px;
+}
+
+.water {
+  bottom: 40px;
+}
+
+#week-one a {
+  color: #FF491A;
+  text-decoration: none;
+}
+
+#week-one a:hover {
+  color: #FFF;
+}

@@ -33,6 +33,13 @@ p.fonts-in-use {
   text-transform: uppercase;
 }
 
+section {
+  width: 100vw;
+  padding: 13rem 0 10rem 0;
+  position: relative;
+  text-align: center;
+}
+
 .week-number {
   width: 25px;
   height: 25px;
@@ -45,10 +52,6 @@ p.fonts-in-use {
 /* week 1 */
 #week-one {
   background-color: #F4F2F3;
-  width: 100vw;
-  padding: 13rem 0 10rem 0;
-  position: relative;
-  text-align: center;
 }
 
 #week-one h2 {
@@ -95,4 +98,52 @@ p.fonts-in-use {
 
 #week-one a:hover {
   color: #FFF;
+}
+
+/*week-2*/
+#week-two {
+  background-color: #DCC634;
+}
+
+#week-two .text-layout {
+  position: relative;
+  margin: 55px auto;
+  width: 90%;
+}
+
+#week-two h2 {
+  color: #FF51A5;
+  font-family: 'Open Sans', serif;
+  font-size: 14vw;
+  text-transform: uppercase;
+}
+
+#week-two span {
+  font-size: 18vw;
+  letter-spacing: 7px;
+}
+
+#week-two h3 {
+  color: snow;
+  font-family: 'Vollkorn', serif;
+  font-size: 3vw;
+  letter-spacing: 0.75px;
+  line-height: 3.4vw;
+  position: absolute;
+}
+
+#week-two .one {
+  text-align: left;
+  top: -13px;
+}
+
+#week-two .two {
+  text-align: right;
+  right: 0;
+  bottom: -13px;
+}
+
+#week-two a {
+  color: #FF51A5;
+  text-decoration: none;
 }

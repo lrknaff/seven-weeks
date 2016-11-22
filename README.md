@@ -2,7 +2,7 @@
 > 'Helvetica is the sweatpants of typefaces'
 
 ##What is this
-Manipulating type in expressive, creative ways is an interesting CSS layout challenge, and developing the skill of choosing fonts that pair nicely together takes time. Drawing inspiration from the Yale School of Art’s 100 Days project, we built a new typographic experiment every week for this module. The end deliverable was a one page site that shows the full collection of the type exercises.
+Manipulating type in expressive, creative ways is an interesting CSS layout challenge, and developing the skill of choosing fonts that pair nicely together takes time. Drawing inspiration from the Yale School of Art’s [100 days of fonts](http://designobserver.com/feature/five-years-of-100-days/24678) project, we built a new typographic experiment every week for this module. The end deliverable was a one page site that shows the full collection of the type exercises.
 
 ##Built With
 * HTML

@@ -181,3 +181,78 @@ section {
   color: orangered;
   text-decoration: none;
 }
+
+/* week 4 */
+#week-four {
+  background-color: #B7E3E4;
+  color: #FFF;
+}
+
+#week-four .text-layout {
+  border: 3px solid #FFF;
+  position: relative;
+  margin: 40px auto;
+  width: 400px;
+  height: 400px;
+}
+
+#week-four h2 {
+  color: #FFF;
+  font-family: 'Abril Fatface', serif;
+  font-size: 22px;
+  letter-spacing: 1.3px;
+  line-height: 25px;
+  position: absolute;
+  right: 15px;
+  text-align: left;
+  top: 34%;
+  z-index: 1;
+}
+
+#week-four h3 {
+  color: #F03F35;
+  font-family: 'Open Sans', serif;
+  font-weight: 800;
+  font-size: 60px;
+  font-style: italic;
+  position: absolute;
+}
+
+#week-four .f {
+  top: 40px;
+  left: 80px;
+}
+
+#week-four .l {
+  top: 92px;
+  left: 183px;
+}
+
+#week-four .y {
+  top: 169px;
+  left: 102px;
+}
+
+#week-four .b {
+  top: 290px;
+  left: 64px;
+}
+
+#week-four .second-y {
+  top: 319px;
+  left: 236px;
+}
+
+#week-four span {
+  display: inline-block;
+  font-family: 'Open Sans', serif;
+  font-size: 13px;
+  font-weight: 400;
+  padding-top: 15px;
+  text-align: right;
+}
+
+#week-four a {
+  color: #484848;
+  text-decoration: none;
+}
